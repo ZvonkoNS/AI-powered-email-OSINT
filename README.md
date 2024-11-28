@@ -144,5 +144,5 @@ Contributions are welcome! Fork the project and submit pull requests. Ensure cod
 
 ## 📧 Contact
 For queries, feature requests, or premium OSINT services, contact:
-- Email: info@next-sight.com
+- Email: info@next-sight.com or zvonko@next-sight.com
 - Website: [Next Sight](https://next-sight.com)
